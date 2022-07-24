@@ -1,0 +1,72 @@
+[
+	{
+		"engine_temp": 2900.1,
+		"tire_temp": 95,
+		"tire_pressure": 0.89,
+		"oil_pressure": 73,
+		"last_max_g_force": 2
+	},
+	{
+		"engine_temp": 2863.2,
+		"tire_temp": 110,
+		"tire_pressure": 1.2,
+		"oil_pressure": 95,
+		"last_max_g_force": 1.8
+	},
+	{
+		"engine_temp": 3100,
+		"tire_temp": 81,
+		"tire_pressure": 1,
+		"oil_pressure": 75,
+		"last_max_g_force": 3
+	},
+	{
+		"engine_temp": 3300,
+		"tire_temp": 135,
+		"tire_pressure": 2,
+		"oil_pressure": 130,
+		"last_max_g_force": 2
+	},
+	{
+		"engine_temp": 2900,
+		"tire_temp": 95,
+		"tire_pressure": 0.9,
+		"oil_pressure": 76,
+		"last_max_g_force": 1.6
+	},
+	{
+		"engine_temp": 2901,
+		"tire_temp": 96,
+		"tire_pressure": 1.1,
+		"oil_pressure": 78,
+		"last_max_g_force": 4
+	},
+	{
+		"engine_temp": 3100,
+		"tire_temp": 120,
+		"tire_pressure": 0.9,
+		"oil_pressure": 88,
+		"last_max_g_force": 1.4
+	},
+	{
+		"engine_temp": 2805,
+		"tire_temp": 109,
+		"tire_pressure": 0.84,
+		"oil_pressure": 78,
+		"last_max_g_force": 1.9
+	},
+	{
+		"engine_temp": 1800,
+		"tire_temp": 63,
+		"tire_pressure": 0.86,
+		"oil_pressure": 75,
+		"last_max_g_force": 2.8
+	},
+	{
+		"engine_temp": 0,
+		"tire_temp": 0,
+		"tire_pressure": 0,
+		"oil_pressure": 0,
+		"last_max_g_force": 0
+	}
+]
